@@ -21,6 +21,12 @@ I don't host the `.\mirror` folder since it has copyrighted content from Rocksta
 <p align="center">
   <img src="media/Screenshot 2026-10-07 172216.png" alt="Folder Properties">
 </p>
+<p align="center">
+  <img src="media/Screenshot 2026-10-07 172718.png" alt="Folder Properties">
+</p>
+<p align="center">
+  <img src="media/Screenshot 2026-10-07 172758.png" alt="Folder Properties">
+</p>
 
 3. Run the `Launch-Local.cmd` and it will automatically open the URL at `http://localhost:8000/`.
 
