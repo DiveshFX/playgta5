@@ -8,6 +8,10 @@ Telegram: @SebasKitten
 
 X: @Sebas_Kitten
 
+# Link
+Telegram: https://t.me/playgta5regen
+
+
 # Disclaimer
 I don't host the `.\mirror` folder since it has copyrighted content from Rockstar Games. Please find the files by yourself.
 
